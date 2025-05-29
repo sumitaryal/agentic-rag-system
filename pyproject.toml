@@ -1,0 +1,10 @@
+[project]
+name = "agentic-rag-system"
+version = "0.1.0"
+description = "A system for building agentic RAG (Retrieval-Augmented Generation) applications."
+authors = [
+    { name = "Sumit Aryal"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
